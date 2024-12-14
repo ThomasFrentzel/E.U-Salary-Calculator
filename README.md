@@ -1,6 +1,6 @@
 # E.U - Salary Calculator
 
-**Salary Calculator** is a Java GUI application that helps users calculate their salary breakdown in euros, based on EU tax brackets. It takes inputs for monthly salary, daily working hours, and company name, then calculates:
+**E.U - Salary Calculator** is a Java GUI application that helps users calculate their salary breakdown in euros, based on EU (European Union) tax brackets. It takes inputs for monthly salary, daily working hours, and company name, then calculates:
 
 - Hourly Rate
 - Daily Earnings
