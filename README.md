@@ -9,10 +9,9 @@
 - Tax Deducted
 - Net Annual Earnings
 
-The results can be saved as a `.txt` file.
-
 ## Features
 
 - Input for **monthly salary in euros**, **working hours**, and **company name**.
 - Tax calculation based on EU tax brackets.
 - Option to **download results** as a `.txt` file.
+
