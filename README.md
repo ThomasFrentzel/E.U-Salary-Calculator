@@ -1,6 +1,6 @@
-# E.U - Salary Calculator
+# German Salary Calculator
 
-**E.U - Salary Calculator** is a Java GUI application that helps users calculate their salary breakdown in euros, based on EU (European Union) tax brackets. It takes inputs for monthly salary, daily working hours, and company name, then calculates:
+**German Salary Calculator** is a Java GUI application that helps users calculate their salary breakdown in euros, based on German tax brackets. It takes inputs for monthly salary, daily working hours, and company name, then calculates:
 
 - Hourly Rate
 - Daily Earnings
@@ -12,6 +12,6 @@
 ## Features
 
 - Input for **monthly salary in euros**, **working hours**, and **company name**.
-- Tax calculation based on EU tax brackets.
+- Tax calculation based on German tax brackets.
 - Option to **download results** as a `.txt` file.
 
