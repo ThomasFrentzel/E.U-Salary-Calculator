@@ -15,9 +15,8 @@
 - Tax calculation based on German tax brackets.
 - Option to **download results** as a `.txt` file.
 
-
-## Cloning the Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/ThomasFrentzel/German-Salary-Calculator
-
+```
