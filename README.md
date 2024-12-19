@@ -18,8 +18,6 @@
 
 ## Cloning the Repository
 
-To get started with the project, clone the repository:
-
 ```bash
 git clone https://github.com/ThomasFrentzel/German-Salary-Calculator
 
